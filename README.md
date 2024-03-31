@@ -11,7 +11,7 @@ Code Bloom is an innovative coding practice platform designed to tackle the chal
 
 - **User-Centric Design:**
   - Offers a minimalistic and intuitive coding experience with a user-friendly interface.
-  - Supports multiple programming languages and provides robust authentication and database management using Firebase.
+  - Provides robust authentication and database management using Firebase.
 
 - **SEO Optimization:**
   - Ensures SEO friendliness by pre-rendering content, allowing search engine bots to index the website effectively.
